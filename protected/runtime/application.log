@@ -1,0 +1,368 @@
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (16)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in D:\xampp\htdocs\YII\protected\views\home\main.php (2)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "clientScript" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "errorHandler" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.db.ar.CActiveRecord] Menu.findAll()
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:29 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `system_menu` `t`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:56 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:56 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:56 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:56 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (16)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in D:\xampp\htdocs\YII\protected\views\home\main.php (2)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:56 [trace] [system.CModule] Loading "clientScript" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "errorHandler" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.db.ar.CActiveRecord] Menu.findAll()
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:45:59 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `system_menu` `t`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (16)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in D:\xampp\htdocs\YII\protected\views\home\main.php (2)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "clientScript" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:17 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:20 [trace] [system.CModule] Loading "errorHandler" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.db.ar.CActiveRecord] Menu.findAll()
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:47:21 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `system_menu` `t`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (16)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in D:\xampp\htdocs\YII\protected\views\home\main.php (2)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "clientScript" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:19 [trace] [system.CModule] Loading "errorHandler" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.db.ar.CActiveRecord] Menu.findAll()
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:20 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `system_menu` `t`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (16)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in D:\xampp\htdocs\YII\protected\views\home\main.php (2)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "clientScript" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:31 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:32 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:32 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:32 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.CModule] Loading "errorHandler" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.db.ar.CActiveRecord] Menu.findAll()
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:50:39 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `system_menu` `t`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:26 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:26 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:26 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:26 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (16)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in D:\xampp\htdocs\YII\protected\views\home\main.php (2)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:26 [trace] [system.CModule] Loading "clientScript" application component
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (18)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "session" application component
+in D:\xampp\htdocs\YII\protected\models\Menu.php (126)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\components\BaseModel.php (53)
+in D:\xampp\htdocs\YII\protected\models\Menu.php (126)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+2016/05/25 08:52:27 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\components\BaseModel.php (53)
+in D:\xampp\htdocs\YII\protected\models\Menu.php (126)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+2016/05/25 08:52:27 [trace] [system.db.CDbCommand] Querying SQL: select id,name as text,'node-group' as nodeCls,img_class as 'iconCls',1 as is_children from system_menu where parent_key is null
+and id in (select t1.menu_id from system_role_menu t1 inner join system_role t2 on t1.role_id=t2.id left join system_login_user t3 on t2.id=t3.role_id where t3.id=:user_id)
+in D:\xampp\htdocs\YII\protected\components\BaseModel.php (67)
+in D:\xampp\htdocs\YII\protected\models\Menu.php (126)
+in D:\xampp\htdocs\YII\protected\controllers\HomeController.php (28)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "log" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "request" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "urlManager" application component
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.base.CModule] Loading "sys" module
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.db.ar.CActiveRecord] Menu.findAll()
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.CModule] Loading "db" application component
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.db.CDbConnection] Opening DB connection
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `system_menu`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
+2016/05/25 08:52:27 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `system_menu` `t`
+in D:\xampp\htdocs\YII\protected\modules\sys\controllers\MenuController.php (57)
+in D:\xampp\htdocs\YII\index.php (18)
